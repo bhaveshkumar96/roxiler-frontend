@@ -2,7 +2,9 @@
 
 ## Introduction
 Roxiler Frontend is a web-based project that focuses on creating a user interface (UI) for displaying and visualizing data through graphs. The project was developed as part of an assignment, which aimed to build a data visualization application.
-
+## Deployed link
+👇
+https://roxiler-orignal.netlify.app/
 The main objective of Roxiler Frontend is to provide users with an intuitive and interactive platform to explore and analyze data in a graphical format. The project leverages various frontend technologies and frameworks to achieve this goal.
 ##Tech-stack
 1. React
@@ -38,4 +40,6 @@ List and provide a brief overview of the technologies used in the project.
 
 - Nodemon
 - dotenv
-  
+
+  ## Thankyou
+  🙏
